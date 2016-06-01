@@ -13,6 +13,10 @@
     long long _receviceLength;  //用来接收保存已经下载好的长度
     long long _totalLength;    //总长度
     
+    
+    NSString *name;
+    
+    
 }
 
 
